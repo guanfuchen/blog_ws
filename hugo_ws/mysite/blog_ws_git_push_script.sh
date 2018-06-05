@@ -22,6 +22,6 @@ cd ${blog_ws_root_path}/hugo_ws/mysite/guanfuchen.github.io
 git status -sb .
 git add . && git commit -m "update" && git push
 
-#cd ${blog_ws_root_path}
-#git status -sb .
-#git add . && git commit -m "update" && git push
+cd ${blog_ws_root_path}
+git status -sb .
+git add . && git commit -m "update" && git push

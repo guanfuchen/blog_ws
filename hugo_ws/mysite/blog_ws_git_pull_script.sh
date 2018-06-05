@@ -36,3 +36,6 @@ else
     cd ${blog_ws_root_path}/hugo_ws/mysite/guanfuchen.github.io
     git pull
 fi
+
+cd ${blog_ws_root_path}
+git pull
