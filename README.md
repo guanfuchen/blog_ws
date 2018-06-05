@@ -1,6 +1,6 @@
 # blog_ws
 
-![](http://chenguanfuqq.gitee.io/tuquan2/img_2018_5/hugo.svg)
+![](http://chenguanfuqq.gitee.io/tuquan2/img_2018_5/hugo.png)
 
 ---
 ## 概述
