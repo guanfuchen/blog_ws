@@ -1,0 +1,5 @@
+baseURL = "https://guanfuchen.github.io"
+languageCode = "en-us"
+title = "import python"
+disqusShortname = "guanfuchen"
+publishDir = "guanfuchen.github.io"
